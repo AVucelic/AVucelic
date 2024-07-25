@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AVucelic
-- 👀 I’m interested in data science
+- 👀 I’m interested in machine learning and AI
 - 🌱 I’m currently learning machine and deep learning in Python
 - 📫 How to reach me: arian.vucelic123@gmail.com
 - 😄 Pronouns: he/him
